@@ -43,7 +43,7 @@ yarn add react-table
 ##Executando o Projeto
 Para iniciar a aplicação, navegue até a pasta do projeto usando o terminal:
 ```bash
-cd ./bancosangue-react-app
+cd ./bancosangue-front-react
 yarn start
 ```
 
