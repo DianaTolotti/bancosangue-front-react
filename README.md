@@ -1,5 +1,4 @@
-# bancosangue-front-react
-# Aplicação Bancosanguefront (Frontend)
+# bancosangue-react-app
 
 Este é o repositório do frontend da aplicação Bancosanguefront, desenvolvida usando React. Certifique-se de seguir as instruções abaixo para configurar e executar o projeto corretamente.
 
@@ -43,7 +42,7 @@ yarn add react-table
 ##Executando o Projeto
 Para iniciar a aplicação, navegue até a pasta do projeto usando o terminal:
 ```bash
-cd ./bancosangue-front-react
+cd ./bancosangue-react-app
 yarn start
 ```
 
