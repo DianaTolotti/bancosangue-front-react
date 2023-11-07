@@ -35,6 +35,9 @@ Além disso, você precisa adicionar as seguintes bibliotecas ao seu projeto:
 ```bash
 yarn add axios
 yarn add react-table
+yarn remove react-router-dom 
+yarn add react-router-dom@5.2
+yarn add bootstrap
 ```
 
 ##Executando o Projeto
