@@ -25,11 +25,9 @@ npm rebuild node-sass
 
 
 ## Instalação das Dependências
-O comando yarn install é usado para garantir que todas as dependências estejam instaladas corretamente.
 Agora, você pode instalar as dependências do projeto usando o Yarn. Execute o seguinte comando na raiz do projeto:
 ```bash
 yarn add bootstrap@4.6.0 lodash@4.17.21 react-bootstrap@1.5.2 node-sass@4.14.1 react-router-dom@5.2.0 uuid@8.3.2
-yarn install
 ```
 
 ##Adição de bibliotecas
@@ -43,6 +41,7 @@ yarn add react-table
 Para iniciar a aplicação, navegue até a pasta do projeto usando o terminal:
 ```bash
 cd ./bancosangue-react-app
+yarn install
 yarn start
 ```
 
